@@ -48,7 +48,9 @@
 ## Output:
 
 
-![Screenshot 2024-11-28 185908](https://github.com/user-attachments/assets/7d4ed72a-fd7a-4030-ac83-2f4d9f96dde2)
+![UMS5_Phone Stand v1 - UltiMaker Cura 04-12-2024 14_03_59](https://github.com/user-attachments/assets/f153e3fd-5eab-4286-9c4e-4448b7eba7fe)
+
+
 
 
 ### Name: DEEPAK S
